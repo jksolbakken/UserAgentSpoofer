@@ -1,3 +1,3 @@
 # UserAgentSpoofer
 
-Chrome plugin that lets you reload a page with another UserAgent header
+Chrome extension that lets you reload a page with another UserAgent header
